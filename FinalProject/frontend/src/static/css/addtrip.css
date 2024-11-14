@@ -1,0 +1,57 @@
+.side-bar-new{
+    width: 600px;
+    background-color: #C6DFE5;
+    text-align: center;
+}
+
+
+
+.bottom-buttons{
+    
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+}
+
+.display-trip-format{
+    background-color: #D9D9D9;
+    margin-top: 5%;
+    height: 100%;
+}
+
+.day{
+    background-color: rgb(156, 219, 241);
+    border-radius: 4px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: left;
+}
+
+h5{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.form-select{
+    width:100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+.dropDiv{
+    text-align: center;
+    
+}
+
+button{
+    background-color: #BCF7FB;
+    box-shadow: black;
+    
+    margin-bottom: 5%;
+}
+
+
